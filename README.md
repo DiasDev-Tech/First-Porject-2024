@@ -1,2 +1,2 @@
-# First Porject 2024
+# First Project 2024
  Primeiro repositório - Git - GitHub
